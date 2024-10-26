@@ -12,6 +12,6 @@ This project demonstrates the implementation of inverse kinematics using the p5.
 - Change the number of segments in the arm.
 - Follow mouse cursor
 
-## Showcase
+## Demo
 
 ![Inverse Kinematics](./showcase.gif)
